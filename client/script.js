@@ -552,4 +552,6 @@ function finish() {
 }
 
 
-console.log(navStatus)
+function inviteMember() {
+    
+}
